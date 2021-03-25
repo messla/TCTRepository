@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C06979C-496C-4AA4-96F7-96F87E78E408}</ProjectGuid>
+    <ProjectGuid>{1516E3BA-BE05-49A3-B224-BD3522BD31C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>BaekJoon</RootNamespace>
     <AssemblyName>BaekJoon</AssemblyName>
