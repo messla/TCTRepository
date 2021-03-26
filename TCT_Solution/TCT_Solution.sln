@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lee0215", "lee0215", "{4CC3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "messla", "messla", "{F0BCAE83-D00C-45AB-A1BF-A9A88DE9D560}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaekJoon", "BaekJoon\BaekJoon.csproj", "{1516E3BA-BE05-49A3-B224-BD3522BD31C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackJoon", "BackJoon\BackJoon.csproj", "{37A1BC68-3267-4779-AE52-1F277DD91CAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,16 +17,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1516E3BA-BE05-49A3-B224-BD3522BD31C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1516E3BA-BE05-49A3-B224-BD3522BD31C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1516E3BA-BE05-49A3-B224-BD3522BD31C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1516E3BA-BE05-49A3-B224-BD3522BD31C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A1BC68-3267-4779-AE52-1F277DD91CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A1BC68-3267-4779-AE52-1F277DD91CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A1BC68-3267-4779-AE52-1F277DD91CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A1BC68-3267-4779-AE52-1F277DD91CAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{1516E3BA-BE05-49A3-B224-BD3522BD31C7} = {F0BCAE83-D00C-45AB-A1BF-A9A88DE9D560}
+		{37A1BC68-3267-4779-AE52-1F277DD91CAA} = {F0BCAE83-D00C-45AB-A1BF-A9A88DE9D560}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8466D71E-1B1F-435B-9259-3AB7D40EC4EB}

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1516E3BA-BE05-49A3-B224-BD3522BD31C7}</ProjectGuid>
+    <ProjectGuid>{37A1BC68-3267-4779-AE52-1F277DD91CAA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BaekJoon</RootNamespace>
-    <AssemblyName>BaekJoon</AssemblyName>
+    <RootNamespace>BackJoon</RootNamespace>
+    <AssemblyName>BackJoon</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
