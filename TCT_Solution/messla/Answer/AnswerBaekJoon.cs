@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Answer
 {
-    class Program
+    class AnswerBaekJoon
     {
         static void Main(string[] args)
         {
