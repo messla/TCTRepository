@@ -39,6 +39,7 @@ namespace Practice_7568
 
             }
 
+
             for (int i = 0; i < int_N; i++)
             {
                 Console.Write(result[i]);

@@ -32,6 +32,7 @@ namespace Practice_2231
                     }
                 }
             }
+
             Console.WriteLine(result);
 
         }
